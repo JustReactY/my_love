@@ -1,0 +1,20 @@
+{
+  "name": "My520",
+  "version": "1.0.0",
+  "description": "520表白神器\r @[TOC](目录)",
+  "main": "cursor-effect.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xuyuanzhi051/My520.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xuyuanzhi051/My520/issues"
+  },
+  "homepage": "https://github.com/xuyuanzhi051/My520#readme"
+}
